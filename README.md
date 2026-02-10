@@ -1,4 +1,3 @@
-# 🛡️ BitMoreVerify
 
 <p align="center">
   <img src="https://img.shields.io/badge/Django-5.2.5-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -9,9 +8,11 @@
   <img src="https://img.shields.io/github/stars/smdspace-dev/BitMoreVerify?style=for-the-badge&color=gold" />
 </p>
 
+# 🛡️ BitMoreVerify
+
 A full-stack authentication system built with **Django REST Framework** and **React**, featuring **Google OAuth**, **email verification**, and **News API** integration. Perfect for rapid development of secure authentication systems.
 
----
+#
 
 ## ✨ Features
 
@@ -244,10 +245,10 @@ This project is licensed under the **MIT License**.
 
 ## 💬 Support
 
-* 📧 Email: [ahilxdesigns@gmail.com](mailto:ahilxdesigns@gmail.com)
-* 🐛 Issues: [GitHub Issues](https://github.com/smdspace-dev/BitMoreVerify/issues)
+* 📧 Email: [ahilxdesigns@gmail.com](mailto:contact.thousif+github@gmail.com)
+* 🐛 Issues: [GitHub Issues](https://github.com/Thousifibrahim/BitMoreVerify/issues)
 
 ---
 
-**Made with ❤️ by [Smd-space](https://github.com/smdspace-dev) and Team**
+**Made with ❤️ by [Smd-space](https://github.com/Thousifibrahim) and Team**
 *Happy Coding! 🚀*
