@@ -1,5 +1,7 @@
 # BitMoreVerify
 
+![stack: Python](https://img.shields.io/badge/stack-Python-3776AB) ![platform: Web](https://img.shields.io/badge/platform-Web-6f42c1)
+
 Lightweight web app that verifies user-submitted data or credentials through automated checks. Designed for easy integration into other systems or workflows.
 
 ## Overview
